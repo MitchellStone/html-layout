@@ -11,8 +11,11 @@ width: 100%;
 height: 20vh;
 }
 .middle {
-
+background-color: whitesmoke;
+margin: 0 auto;
+width: 75%;
+height: 10vh;
 }
 .bottom {
-
+background-color: black;
 }
