@@ -5,20 +5,20 @@ body {
   height: 100vh;
 }
 
-.top {
+.header {
   width: 100%;
   height: 20vh;
   background-color: #444444;
 }
 
-.middle {
+.main-content {
   background-color: #EFEFEF;
   margin: 0 auto;
   width: 75%;
   height: 70vh;
 }
 
-.bottom { 
+.footer { 
   background-color: #222222;
   margin: 0 auto;
   width: 75%;
